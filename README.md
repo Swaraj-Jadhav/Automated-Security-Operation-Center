@@ -20,7 +20,7 @@ It covers **log ingestion, detection engineering, threat intelligence enrichment
 | SIEM & Log Analysis | Wazuh Manager, Wazuh Indexer, Graylog |
 | Visualization | Wazuh Dashboard |
 | Threat Intelligence | MISP |
-| Incident Response | TheHive, Cortex |
+| Incident Response | jira |
 | DFIR & Threat Hunting | Velociraptor |
 | Automation / SOAR | n8n |
 | OS | Ubuntu Linux, Windows |
